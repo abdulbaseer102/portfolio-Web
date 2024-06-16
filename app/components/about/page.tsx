@@ -1,3 +1,4 @@
+"use client"
 import { motion } from 'framer-motion';
 import React from 'react';
 import { HiAcademicCap, HiCode, HiStar, HiUserGroup } from 'react-icons/hi';

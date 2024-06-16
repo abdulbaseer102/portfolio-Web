@@ -1,3 +1,4 @@
+"use client"
 import { motion } from 'framer-motion'
 import React from 'react'
 import { HiOutlineLocationMarker } from 'react-icons/hi'
